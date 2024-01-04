@@ -5,6 +5,7 @@ import java.net.MulticastSocket;
 import java.net.DatagramPacket;
 
 public class MulticastingReceiver 
+
 {
 	public static void main(String[] args) throws InterruptedException, IOException 
 	{
